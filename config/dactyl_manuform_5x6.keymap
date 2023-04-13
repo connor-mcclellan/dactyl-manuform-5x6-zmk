@@ -20,8 +20,8 @@
                 &kp LCTRL &kp Z  &kp X  &kp C  &kp V  &kp B               &kp N  &kp M  &kp COMMA &kp DOT &kp FSLH &kp PSCRN
                                  &kp LBKT &kp RBKT                                      &kp DOWN  &kp UP
                                             &kp LGUI &kp SPACE            &kp RET  &kp LALT
-                                            &kp LALT &kp HOME             &kp END  &kp LCTRL
-                                            &kp BSPC &mo LWR              &mo RSE  &kp DEL
+                                            &kp LALT &mo LWR              &mo RSE  &kp LCTRL
+                                            &kp BSPC &kp HOME             &kp END  &kp DEL
             >;
         };
 
